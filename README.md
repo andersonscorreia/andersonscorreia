@@ -12,7 +12,12 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/andersonscorreia/count.svg" /></p> 
 <br></div>
 
-
+![snake animation](https://github.com/andersonsocrreia/andersonsocrreia/blob/output/github-contribution-grid-snake2.svg)
+            
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=39ff14&height=120&section=footer"/>
+
+
+
+
