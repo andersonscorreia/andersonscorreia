@@ -14,8 +14,9 @@
 
 <p align="center">
 <a>
-  <a href="https://www.linkedin.com/in/anderson-correia-a69619179"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"></a> 
-  <img width="5%"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />
+  <a href="https://www.linkedin.com/in/anderson-correia-a69619179"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"></a>
+  <a href="andersonsantos.ifrn@gmail.com"><img  width="5%" src="https://cdn-icons-png.flaticon.com/512/2250/2250206.png" alt="Email"></a> 
+  
   </a>
 </p>
 
