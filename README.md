@@ -8,19 +8,50 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonscorreia&locale=pt-br&layout=compact&hide_border=true&title_color=39ff14&text_color=ffffff&bg_color=0d1117" />
 </div>
 
-### Skills ###
- 
-![My Skills](https://skillicons.dev/icons?i=bash,docker,linux,py,git)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Estou Aprendendo ###
--
-![My Skills](https://skillicons.dev/icons?i=bash,docker,linux,py,git)
+### Informações de Contato
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+<a>
+    <img src="https://skillicons.dev/icons?i=linkedin" href="https://www.linkedin.com/in/anderson-correia-a69619179"/>
+    <img width="5%"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />
   </a>
 </p>
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Skills
+<p align="center">
+  <a>
+    <img src="https://skillicons.dev/icons?i=bash,docker,linux,py,git,latex" />
+    <img width="5%"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />
+  </a>
+</p>
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Estou Aprendendo 
+<p align="center">
+  <a>
+    <img src="https://skillicons.dev/icons?i=mysql,php" />
+    <img width="5%"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+    <img width="5%"src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" />
+    
+  </a>
+</p>
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------         
+         
+
+
+
+
+
+
+
 
 <picture>
   <source
