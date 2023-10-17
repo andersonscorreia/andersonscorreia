@@ -43,8 +43,9 @@
   <a>
     <img src="https://skillicons.dev/icons?i=mysql,php" />
     <img width="5%"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-    <img width="5%"src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" />
-    
+    <img width="6%"src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" />
+    <img width="10%"src="https://www.asterisk.org/wp-content/uploads/asterisk-logo-fb-share.png" />
+  
   </a>
 </p>
 
