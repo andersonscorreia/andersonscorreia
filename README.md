@@ -14,8 +14,8 @@
 
 <p align="center">
 <a>
-    <img src="https://skillicons.dev/icons?i=linkedin" href="https://www.linkedin.com/in/anderson-correia-a69619179"/>
-    <img width="5%"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />
+  <a href="https://www.linkedin.com/in/anderson-correia-a69619179"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"></a> 
+  <img width="5%"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />
   </a>
 </p>
 
