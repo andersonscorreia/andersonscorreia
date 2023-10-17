@@ -8,9 +8,19 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonscorreia&locale=pt-br&layout=compact&hide_border=true&title_color=39ff14&text_color=ffffff&bg_color=0d1117" />
 </div>
 
+### Skills ###
+ 
+![My Skills](https://skillicons.dev/icons?i=bash,docker,linux,py,git)
 
+### Estou Aprendendo ###
+-
+![My Skills](https://skillicons.dev/icons?i=bash,docker,linux,py,git)
 
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 <picture>
   <source
