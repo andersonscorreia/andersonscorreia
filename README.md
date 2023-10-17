@@ -18,7 +18,7 @@
   <a href=mailto:"andersonsantos.ifrn@gmail.com"><img  width="5%" src="https://cdn-icons-png.flaticon.com/512/2250/2250206.png" alt="Email"></a> 
   <a href="https://t.me/andersonscorreia"><img width="5%" src="https://cdn.pixabay.com/photo/2021/12/27/10/50/telegram-icon-6896828_1280.png" alt="telegram"></a>
   <a href="https://wa.me/5584994246108"><img width="5%" src="https://imagepng.org/wp-content/uploads/2017/08/WhatsApp-icone-3.png" alt="whatsapp"></a>
-  <a href="https://www.instagram.com/andersons.correia/"><img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" alt="Instagram"></a>
+  <a href="https://www.instagram.com/andersons.correia"><img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" alt="Instagram"></a>
   
   
   </a>
