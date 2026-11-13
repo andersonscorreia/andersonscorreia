@@ -25,7 +25,7 @@
 
 ### 👨‍💻 Sobre Mim
 
-- 💼 **Atuação atual:** Suporte de TI & Sistemas no **Grupo G Trigueiro / Maquip** (N1/N2/N3), atuando na sustentação de sistemas web/cliente-servidor, integrações com **ERP Sankhya OM (API REST / OAuth 2.0)**, **GLPI** e **Active Directory (LDAP/LDAPS)**.
+- 💼 **Atuação atual:** Suporte de TI & Sistemas no **Grupo G Trigueiro** (N1/N2/N3), atuando na sustentação de sistemas web/cliente-servidor, integrações com **ERP (API REST / OAuth 2.0)**, **GLPI** e **Active Directory (LDAP/LDAPS)**.
 - 🎓 **Formação & Certificações:** Graduando em **Tecnologia em Redes de Computadores (IFRN)**, **Técnico em Informática (IFRN)** e certificado **Red Hat (RH124, RH134, Python AD141)** e **Cibersegurança (Hackers do Bem / SENAI)**.
 - 🛠️ **Especialidades:** Administração **Linux (RHEL) & Windows Server**, **SQL Server (T-SQL) & MySQL**, desenvolvimento **Python (Django)**, conteinerização com **Docker**, **VLANs** e monitoramento com **Zabbix, Grafana e Webhooks**.
 - 📫 **Contato:** Disponível em **Natal/RN** pelo e-mail **andersonsantos.ifrn@gmail.com** ou via [LinkedIn](https://www.linkedin.com/in/andersonscorreia/).
