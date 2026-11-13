@@ -46,18 +46,17 @@
 
 #### Infraestrutura, Redes, DevOps & Monitoramento
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,redhat,windows,docker,apache,grafana,git,github" alt="Infraestrutura e Ferramentas" />
+  <img src="https://skillicons.dev/icons?i=linux,redhat,windows,docker,grafana,git,github" alt="Infraestrutura e Ferramentas" />
 </p>
 
-> **Outras competências técnicas:** `SQL Server (T-SQL)` · `API REST / OAuth 2.0` · `ERP Sankhya OM` · `Active Directory (LDAP/LDAPS)` · `GLPI (ITSM)` · `Zabbix` · `VLANs & OpenVPN` · `Microsoft 365`
+> **Outras competências técnicas:** `SQL Server (T-SQL)` · `API REST / OAuth 2.0` · `ERP Sankhya OM` · `Active Directory (LDAP/LDAPS)` · `GLPI (ITSM)` · `Zabbix` · `Apache` · `VLANs & OpenVPN` · `Microsoft 365`
 
 ---
 
-### 📊 Métricas do GitHub
+### 📊 Métricas & Contribuições em 3D
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=andersonscorreia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonscorreia&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages" />
+  <img width="100%" src="./profile-3d-contrib/profile-night-green.svg" alt="Gráfico 3D de Contribuições e Commits de Anderson Correia" />
 </div>
 
 ---
