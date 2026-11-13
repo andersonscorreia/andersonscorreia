@@ -1,88 +1,75 @@
-<div align="center" >  
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=39ff14&height=120&section=header"/>
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=39ff1&size=35&&color=39ff14&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Anderson+Correia;Tenho+24+anos;Sou+estudante+de+Redes+de+Computadores+no+IFRN;Moro+em+Natal,+RN;Bem-vindo!+👋)](https://git.io/typing-svg)
+  <h1>Olá, eu sou o Anderson Correia! 👋</h1>
+  <h3>Analista de Suporte de TI & Sistemas | Redes de Computadores (IFRN)</h3>
+  <p>Especialista em sustentação de sistemas, infraestrutura de redes, monitoramento ativo (Zabbix/Grafana) e integrações corporativas via Python (Django), SQL Server (T-SQL), MySQL e API REST.</p>
 
-<div align="center" >  
-  <img width="52%" height="195px" src="https://github-readme-stats.vercel.app/api?username=andersonscorreia&locale=pt-br&show_icons=true&count_private=true&hide_border=true&title_color=39ff14&icon_color=39ff14&text_color=ffffff&bg_color=0d1117" alt="Estatísticas do GitHub de Anderson Correia" /> 
-  <img width="40%" height="197px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonscorreia&locale=pt-br&layout=compact&hide_border=true&title_color=39ff14&text_color=ffffff&bg_color=0d1117" />
-</div>
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-### Informações de Contato
-
-<p align="center">
-<a>
-  <a href="https://www.linkedin.com/in/anderson-correia-a69619179"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"></a>
-  <a href=mailto:"andersonsantos.ifrn@gmail.com"><img  width="5%" src="https://cdn-icons-png.flaticon.com/512/2250/2250206.png" alt="Email"></a> 
-  <a href="https://t.me/andersonscorreia"><img width="5%" src="https://cdn.pixabay.com/photo/2021/12/27/10/50/telegram-icon-6896828_1280.png" alt="telegram"></a>
-  <a href="https://wa.me/5584994246108"><img width="5%" src="https://imagepng.org/wp-content/uploads/2017/08/WhatsApp-icone-3.png" alt="whatsapp"></a>
-  <a href="https://www.instagram.com/andersons.correia"><img width="5%" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" alt="Instagram"></a>
-  
-  
-  </a>
-</p>
-
-
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-### Skills
-<p align="center">
-  <a>
-    <img src="https://skillicons.dev/icons?i=bash,docker,linux,py,git,latex" />
-    <img width="5%"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />
-  </a>
-</p>
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-### Estou Aprendendo 
-<p align="center">
-  <a>
-    <img src="https://skillicons.dev/icons?i=mysql,php" />
-    <img width="5%"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-    <img width="6%"src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" />
-    <img width="10%"src="https://www.asterisk.org/wp-content/uploads/asterisk-logo-fb-share.png" />
-  
-  </a>
-</p>
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------         
-         
-
-
-
-
-
-
-
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="github-user-contribution.svg
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="github-user-contribution.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="github-user-contribution.svg"
-  />
-</picture>
-
-
-            
-
-<br><p align="center"><b>Contador de Visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/andersonscorreia/count.svg" /></p> 
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=39ff14&height=120&section=footer"/>
+  <p>
+    <a href="https://www.linkedin.com/in/andersonscorreia/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:andersonsantos.ifrn@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+    </a>
+    <a href="https://t.me/andersonscorreia" target="_blank">
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    </a>
+    <a href="https://wa.me/5584994246108" target="_blank">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    </a>
+  </p>
 
 </div>
 
+---
 
+### 👨‍💻 Sobre Mim
+
+- 💼 **Atuação atual:** Suporte de TI & Sistemas no **Grupo G Trigueiro / Maquip** (N1/N2/N3), atuando na sustentação de sistemas web/cliente-servidor, integrações com **ERP Sankhya OM (API REST / OAuth 2.0)**, **GLPI** e **Active Directory (LDAP/LDAPS)**.
+- 🎓 **Formação & Certificações:** Graduando em **Tecnologia em Redes de Computadores (IFRN)**, **Técnico em Informática (IFRN)** e certificado **Red Hat (RH124, RH134, Python AD141)** e **Cibersegurança (Hackers do Bem / SENAI)**.
+- 🛠️ **Especialidades:** Administração **Linux (RHEL) & Windows Server**, **SQL Server (T-SQL) & MySQL**, desenvolvimento **Python (Django)**, conteinerização com **Docker**, **VLANs** e monitoramento com **Zabbix, Grafana e Webhooks**.
+- 📫 **Contato:** Disponível em **Natal/RN** pelo e-mail **andersonsantos.ifrn@gmail.com** ou via [LinkedIn](https://www.linkedin.com/in/andersonscorreia/).
+
+---
+
+### 🚀 Stack Tecnológica
+
+#### Linguagens & Marcação
+<p>
+  <img src="https://skillicons.dev/icons?i=py,js,php,bash,html,css" alt="Linguagens" />
+</p>
+
+#### Frameworks, Bancos de Dados & Cache
+<p>
+  <img src="https://skillicons.dev/icons?i=django,mysql,sqlite,redis" alt="Backend e Dados" />
+</p>
+
+#### Infraestrutura, Redes, DevOps & Monitoramento
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,redhat,windows,docker,apache,grafana,git,github" alt="Infraestrutura e Ferramentas" />
+</p>
+
+> **Outras competências técnicas:** `SQL Server (T-SQL)` · `API REST / OAuth 2.0` · `ERP Sankhya OM` · `Active Directory (LDAP/LDAPS)` · `GLPI (ITSM)` · `Zabbix` · `VLANs & OpenVPN` · `Microsoft 365`
+
+---
+
+### 📊 Métricas do GitHub
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=andersonscorreia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonscorreia&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages" />
+</div>
+
+---
+
+### 📂 Projetos e Repositórios em Destaque
+
+| Projeto | Descrição | Tecnologias |
+| :--- | :--- | :--- |
+| **[gerencia](https://github.com/andersonscorreia/gerencia)** | Projeto de Gerência de Redes com instalação, configuração, documentação e monitoramento de ativos e serviços de infraestrutura. | `Shell Script` `Linux` `Redes` `Monitoramento` |
+| **[aasr](https://github.com/andersonscorreia/aasr)** | Automação, configuração e sustentação avançada de serviços de rede em ambientes de servidores Linux. | `Shell Script` `Linux` `Redes` `Servidores` |
+| **[api](https://github.com/andersonscorreia/api)** / **[socketTCP](https://github.com/andersonscorreia/socketTCP)** | Implementações de APIs e comunicação cliente-servidor em rede utilizando protocolo TCP/UDP em Python. | `Python` `API REST` `Sockets TCP/UDP` |
+
+> 💡 **Destaques Corporativos (Grupo G Trigueiro):**
+> - **SIA (Sistema Integrado de Administração):** Plataforma web cliente-servidor em `Python (Django 5)`, `MySQL`, `Redis` e `Docker` integrada via `API REST` e `SQL Server (T-SQL)` ao **ERP Sankhya OM**, **Active Directory (LDAP/LDAPS)**, **ArqSign** e módulo de frota **PWA Offline-First**.
+> - **Monitoramento de SLA & CRM G-Vendas:** Painel web em `Django` e `MySQL` para controle em tempo real de **SLA de chamados e NPS** via `API REST` (Sankhya / ClickUp) e integração com **WhatsApp**.
