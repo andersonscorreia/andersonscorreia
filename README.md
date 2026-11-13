@@ -70,5 +70,5 @@
 | **[api](https://github.com/andersonscorreia/api)** / **[socketTCP](https://github.com/andersonscorreia/socketTCP)** | Implementações de APIs e comunicação cliente-servidor em rede utilizando protocolo TCP/UDP em Python. | `Python` `API REST` `Sockets TCP/UDP` |
 
 > 💡 **Destaques Corporativos (Grupo G Trigueiro):**
-> - **SIA (Sistema Integrado de Administração):** Plataforma web cliente-servidor em `Python (Django 5)`, `MySQL`, `Redis` e `Docker` integrada via `API REST` e `SQL Server (T-SQL)` ao **ERP Sankhya OM**, **Active Directory (LDAP/LDAPS)**, **ArqSign** e módulo de frota **PWA Offline-First**.
-> - **Monitoramento de SLA & CRM G-Vendas:** Painel web em `Django` e `MySQL` para controle em tempo real de **SLA de chamados e NPS** via `API REST` (Sankhya / ClickUp) e integração com **WhatsApp**.
+> - *Sistema Integrado de Administração:** Plataforma web cliente-servidor em `Python (Django 5)`, `MySQL`, `Redis` e `Docker` integrada via `API REST` e `SQL Server (T-SQL)` a um **ERP**, **Active Directory (LDAP/LDAPS)**, **ArqSign** e módulo de frota **PWA Offline-First**.
+> - **Monitoramento de SLA & CRM:** Painel web em `Django` e `MySQL` para controle em tempo real de **SLA de chamados e NPS** via `API REST` e integração com **WhatsApp**.
